@@ -180,7 +180,7 @@ All transplant allocations must follow national procurement protocols and be val
 # 📌 Version
 
 ScanWise AI v2.5  
-Developed by Senior Clinical Engineering Group  
+Developed by Faizan Ahmed
 Node Infrastructure Edition
 ScanWise AI v2.5
 Developed by Senior Clinical Engineering Group
